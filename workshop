@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Workshop Goals</title>
+	          <!-- link to main stylesheet -->
+            <link rel="stylesheet" type = "text/css" href="/css/main.css">
+      </head>
+      <body>
+		        <nav>
+    		            <ul>
+                            <li><a href="/">Home</a></li>
+			                      <li><a href="/about.html">About Us</a></li>    
+                            <li><a href="/workshop">Workshop Goals</a></li>
+
+    		            </ul>
+		        </nav>
+		        <div class="container">
+    		    <div class="blurb">
+        		       <h2>The structure</h2>
+                   <p>stuff about how we're running it</p>
+                   <h2>The Outcomes</h2>
+                   <p>information</p>
+    		    </div><!-- /.blurb -->
+		        </div><!-- /.container -->
+      </body>
+</html>
