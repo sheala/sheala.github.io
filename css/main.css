@@ -1,9 +1,9 @@
 body{
       margin: 60px auto;
-      width: 70%;
+      width: 65%;
 }
 nav ul, footer ul {
-                    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+                    font-family: "Times New Roman", Georgia, Serif;
                     padding: 0px;
                     list-style: none;
                     font-weight: bold;
@@ -21,10 +21,19 @@ a: hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Helevetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Georgia, Serif;
+}
+h2 {
+    font-size: 2em;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+h3 {
+    font-size: 1em;
+    font-style: italic;
+    font-family: "Times New Roman", Georgia, Serif;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
