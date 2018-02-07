@@ -41,7 +41,7 @@ div.fields{
       padding: 15px;
       list-style: none;
       font-weight: bold;
-      background-color: #fff;
+      background-color: #444;
 }
 <!-- Table -->
 table{
@@ -82,6 +82,10 @@ a:visited{
 a.fields:link{
       text-decoration: none;
       color: #cf0000;
+}
+a.fields:hover{
+    text-decoration: none;
+    color: #fff;
 }
 a.fields:visited{
       text-decoration: none;
