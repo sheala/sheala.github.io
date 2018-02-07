@@ -5,7 +5,7 @@
 }
 body{
       margin: 60px auto;
-      width: 65%;
+     
 }
 .clearfix::after {
     content: "";
@@ -84,12 +84,12 @@ a.fields:visited{
 }
 <!-- fonts -->
 h1 {
-    font-size: 2em;
+    font-size: 1em;
     font-family: "Times New Roman", Times, Serif;
     color: #cf0000;
 }
 h2 {
-    font-size: 2em;
+    font-size: 1em;
     font-family: "Times New Roman", Times, Serif;
     color: #fff
 }
