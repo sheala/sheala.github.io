@@ -1,25 +1,55 @@
+<!-- Sections -->
 body{
       margin: 60px auto;
       width: 65%;
 }
 .header{
-      background-color: white;
       width: 25%;
       float: left;
       padding: 0px;
-      font-family: "Times New Roman", Georgia, Serif;
-      font-size: 1em;     
-
 }
-nav ul, footer ul {
-                    font-family: "Times New Roman", Georgia, Serif;
-                    padding: 0px;
-                    list-style: none;
-                    font-weight: bold;
+.menu{
+      padding: 0px;
+      list-style: none;
+      font-weight: bold;
+      width: 75%;
+      float: left;
 }
-nav ul li, footer ul li {
-                          display: inline;
-                          margin-right: 20px;
+.slogan{
+      padding: 15px;
+      background-color: #f0f0f0;
+      text-align: center;
+}
+.background{
+      padding: 8px;
+      list-style: none;
+      float: left;      
+}
+.fields{
+      padding: 15px;
+      list-style: none;
+      font-weight: bold;
+      color: #cf0000;
+      background-color: #f0f0f0;
+}
+<!-- Table -->
+table{
+      border-collapse: collapse;
+      width:100%;
+}
+th, td{
+      text-align: left;
+      padding: 15px;
+}
+tr:hover {background-color: #f5f5f5;}
+table, tr{
+      border: 1px solid black;
+}
+<!-- Links-->
+li{
+      display: inline;
+      margin-right: 20px;
+      float: left;
 }
 a {
     text-decoration: none;
@@ -28,6 +58,7 @@ a {
 a: hover {
            text-decoration: underline;
 }
+<!-- fonts -->
 h1 {
     font-size: 3em;
     font-family: "Times New Roman", Georgia, Serif;
@@ -46,26 +77,4 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-table{
-      border-collapse: collapse;
-      width:100%;
-}
-th, td{
-      text-align: left;
-      padding: 15px;
-}
-tr:hover {background-color: #f5f5f5;}
-table, tr{
-      border: 1px solid black;
-}
-footer {
-        border-top: 1px solid #d5d5d5;
-        font-size: .8em;
-}
-ul.posts {
-          margin: 20px auto 40px;
-          font-size: 1.5em;
-}
-ul.posts li {
-              list-style: none;
-}
+
