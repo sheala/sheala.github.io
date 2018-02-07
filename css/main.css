@@ -4,33 +4,32 @@ body{
       margin: 60px auto;
       width: 65%;
 }
-header{
+div.header{
       width: 25%;
       float: left;
       padding: 0px;
 }
-menu ul{
+nav ul{
       font-family: "Times New Roman", Georgia, Serif;
       padding: 0px;
       list-style: none;
-      width: 75%;
-      float: left;
+      font-weight: bold;
 }
-menu ul li{
+nav ul li{
       display: inline;
       margin-right: 20px;
 }
-slogan{
+div.slogan{
       padding: 0px;
       background-color: #f0f0f0;
       text-align: center;
 }
-background{
+div.background{
       padding: 8px;
       list-style: none;
       float: left;      
 }
-fields{
+div.fields{
       padding: 15px;
       list-style: none;
       font-weight: bold;
@@ -51,24 +50,12 @@ table, tr{
       border: 1px solid black;
 }
 <!-- Links-->
-li{
-      display: inline;
-      margin-right: 20px;
-      float: left;
-}
 a {
     text-decoration: none;
     color: #999;
 }
 a: hover {
            text-decoration: underline;
-}
-ul.posts {
-          margin: 20px auto 40px;
-          font-size: 1.5em;
-}
-ul.posts li {
-              list-style: none;
 }
 <!-- fonts -->
 h1 {
