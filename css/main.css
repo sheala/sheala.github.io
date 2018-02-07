@@ -1,5 +1,8 @@
 <!-- Sections -->
 <style>
+*{
+    box-sizing: border-box;
+}
 body{
       margin: 60px auto;
       width: 65%;
@@ -7,23 +10,22 @@ body{
 div.header{
       width: 25%;
       float: left;
-      padding: 0px;
+      padding: 15px;
 }
 div.slogan{
-      padding: 0px;
-      background-color: #f0f0f0;
+      padding: 15px;
+      background-color: #444;
       text-align: center;
 }
 div.background{
-      padding: 8px;
-      list-style: none;
-      float: left;      
+      padding: 15px;
+      list-style: none;     
 }
 div.fields{
       padding: 15px;
       list-style: none;
       font-weight: bold;
-      background-color: #f0f0f0;
+      background-color: #fff;
 }
 <!-- Table -->
 table{
@@ -74,6 +76,7 @@ h1 {
 h2 {
     font-size: 2em;
     font-family: "Times New Roman", Times, Serif;
+    color: #fff
 }
 h3 {
     font-size: 1em;
@@ -84,6 +87,6 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     font-family: "Times New Roman", Times, Serif;
-    color: #333;
+    color: #444;
 }
 </style>
