@@ -9,16 +9,6 @@ div.header{
       float: left;
       padding: 0px;
 }
-nav ul{
-      font-family: "Times New Roman", Georgia, Serif;
-      padding: 0px;
-      list-style: none;
-      font-weight: bold;
-}
-nav ul li{
-      display: inline;
-      margin-right: 20px;
-}
 div.slogan{
       padding: 0px;
       background-color: #f0f0f0;
@@ -50,12 +40,19 @@ table, tr{
       border: 1px solid black;
 }
 <!-- Links-->
-a {
+nav ul{
+      font-family: "Times New Roman", Georgia, Serif;
+      padding: 0px;
+      list-style: none;
+      font-weight: bold;
+}
+nav ul li{
+      display: inline;
+      margin-right: 20px;
+}
+a{
     text-decoration: none;
     color: #999;
-}
-a:hover {
-           text-decoration: underline;
 }
 <!-- fonts -->
 h1 {
