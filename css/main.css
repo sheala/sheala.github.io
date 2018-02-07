@@ -36,7 +36,6 @@ div.background{
       list-style: none;
       text-align: center;
       font-weight: bold;
-      background-color: #aaa;
 }
 <!-- Table -->
 table{
@@ -77,18 +76,9 @@ a:visited{
 a.bkgrd:link{
       text-decoration: none;
       font-size: 2em;
-      color: #cf0000;
+      color: #333;
 }
-a.bkgrd:hover{
-    text-decoration: none;
-    font-size: 2em;
-    color: #fff;
-}
-a.bkgrd:visited{
-      text-decoration: none;
-      font-size: 2em;
-      color: #cf0000;
-}
+
 <!-- fonts -->
 h1 {
     font-size: 1em;
