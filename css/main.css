@@ -50,7 +50,7 @@ nav ul li{
       display: inline;
       margin-right: 20px;
 }
-a{
+a:link{
     text-decoration: none;
     color: #999;
 }
