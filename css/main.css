@@ -3,29 +3,33 @@ body{
       margin: 60px auto;
       width: 65%;
 }
-.header{
+header{
       width: 25%;
       float: left;
       padding: 0px;
 }
-.menu{
+menu ul{
+      font-family: "Times New Roman", Georgia, Serif;
       padding: 0px;
       list-style: none;
-      font-weight: bold;
       width: 75%;
       float: left;
 }
-.slogan{
-      padding: 15px;
+menu ul li{
+      display: inline;
+      margin-right: 20px;
+}
+slogan{
+      padding: 0px;
       background-color: #f0f0f0;
       text-align: center;
 }
-.background{
+background{
       padding: 8px;
       list-style: none;
       float: left;      
 }
-.fields{
+fields{
       padding: 15px;
       list-style: none;
       font-weight: bold;
@@ -57,6 +61,13 @@ a {
 }
 a: hover {
            text-decoration: underline;
+}
+ul.posts {
+          margin: 20px auto 40px;
+          font-size: 1.5em;
+}
+ul.posts li {
+              list-style: none;
 }
 <!-- fonts -->
 h1 {
