@@ -33,11 +33,6 @@ div.slogan{
 }
 div.background{
       padding: 15px;
-      text-align: center;
-      list-style: none;     
-}
-div.fields{
-      padding: 15px;
       list-style: none;
       text-align: center;
       font-weight: bold;
@@ -79,17 +74,17 @@ a:visited{
       text-decoration:none;
       color: #333;
 }
-a.fields:link{
+a.bkgrd:link{
       text-decoration: none;
       font-size: 2em;
       color: #cf0000;
 }
-a.fields:hover{
+a.bkgrd:hover{
     text-decoration: none;
     font-size: 2em;
     color: #fff;
 }
-a.fields:visited{
+a.bkgrd:visited{
       text-decoration: none;
       font-size: 2em;
       color: #cf0000;
