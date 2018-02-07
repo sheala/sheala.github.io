@@ -2,6 +2,15 @@ body{
       margin: 60px auto;
       width: 65%;
 }
+.header{
+      background-color: white;
+      width: 25%;
+      float: left;
+      padding: 0px;
+      font-family: "Times New Roman", Georgia, Serif;
+      font-size: 1em;     
+
+}
 nav ul, footer ul {
                     font-family: "Times New Roman", Georgia, Serif;
                     padding: 0px;
