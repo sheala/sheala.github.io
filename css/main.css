@@ -67,21 +67,23 @@ a.fields:visited{
 }
 <!-- fonts -->
 h1 {
-    font-size: 3em;
-    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 2em;
+    font-family: "Times New Roman", Times, Serif;
+    color: #cf0000;
 }
 h2 {
     font-size: 2em;
-    font-family: "Times New Roman", Georgia, Serif;
+    font-family: "Times New Roman", Times, Serif;
 }
 h3 {
     font-size: 1em;
     font-style: italic;
-    font-family: "Times New Roman", Georgia, Serif;
+    font-family: "Times New Roman", Times, Serif;
 }
 p {
     font-size: 1em;
     line-height: 1.4em;
+    font-family: "Times New Roman", Times, Serif;
     color: #333;
 }
 </style>
