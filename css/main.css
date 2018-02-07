@@ -5,6 +5,7 @@
 }
 body{
       margin: 60px auto;
+      width: 65%;
      
 }
 .clearfix::after {
@@ -19,7 +20,7 @@ div.header{
       color: #cf0000;
 }
 div.menu{
-    width: 75%;
+    width: 70%;
     padding 15px;
     float: left;
 }
