@@ -1,4 +1,7 @@
 <!-- Sections -->
+<!DOCTYPE html>
+<html>
+<style>
 body{
       margin: 60px auto;
       width: 65%;
@@ -88,4 +91,5 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-
+</style>
+</html>
