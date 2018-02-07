@@ -51,41 +51,31 @@ table, tr{
       border: 1px solid black;
 }
 <!-- Links-->
-nav ul{
+div.menu nav ul{
       margin: 0;
       padding: 0;
       list-style-type: none;
 }
-nav ul li{
+div.menu nav ul li{
       padding: 8px;
       margin-bottom: 8px;
       display: inline;
       margin-right: 20px;
-      color = #444;
+      color = #333;
+      text-decoration:none;
       font-weight: bold;
       font-family: "Times New Roman", Georgia, Serif;
 }
-a:link{
-    text-decoration: none;
-    color: #333;
-}
-a:hover{
-    text-decoration:none;
+nav ul li:hover{
     color: #cf0000;
 }
-a:visited{
-      text-decoration:none;
-      color: #333;
-}
-a.bkgrd:link{
+div.background nav ul li{
       text-decoration: none;
       font-size: 2em;
-      color: #333;
+      color: #333
 }
-a.bkrgd:hover{
-    text-decoration:none;
+div.background nav ul li{
     color: #cf0000;
-    font-size: 2em;
 }
 
 <!-- fonts -->
