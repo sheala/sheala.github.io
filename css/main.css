@@ -73,10 +73,6 @@ a:hover{
     text-decoration:none;
     color: #cf0000;
 }
-a:visited{
-      text-decoration:none;
-      color: #333;
-}
 a.bkgrd:link{
       text-decoration: none;
       font-size: 2em;
