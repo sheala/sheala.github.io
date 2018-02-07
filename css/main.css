@@ -23,7 +23,6 @@ div.fields{
       padding: 15px;
       list-style: none;
       font-weight: bold;
-      color: #cf0000;
       background-color: #f0f0f0;
 }
 <!-- Table -->
@@ -57,6 +56,14 @@ a:link{
 a:visited{
       text-decoration:none;
       color: #333;
+}
+a.fields:link{
+      text-decoration: none;
+      color: #cf0000;
+}
+a.fields:visited{
+      text-decoration: none;
+      color: #cf0000;
 }
 <!-- fonts -->
 h1 {
