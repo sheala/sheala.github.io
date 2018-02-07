@@ -15,7 +15,6 @@ body{
 }
 div.header{
       width: 25%;
-      background-color: #33b5e5;
       padding: 0px;
       float: left;
       color: #cf0000;
@@ -27,7 +26,6 @@ div.menu{
     padding: 15px;
     margin-top:4px; 
     float: left;
-    background-color: #33b5e5;
 }
 div.slogan{
       padding: 5px;
