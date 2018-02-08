@@ -78,7 +78,7 @@ a:hover{
 
 <!-- fonts -->
 h1 {
-    font-size: 1em;
+    font-size: 2em;
     font-family: "Times New Roman", Times, Serif;
     color: #cf0000;
 }
@@ -93,7 +93,7 @@ h3 {
     font-family: "Times New Roman", Times, Serif;
 }
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 1.4em;
     font-family: "Times New Roman", Times, Serif;
     color: #444;
